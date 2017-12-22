@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CDDD0A5D-D287-4A98-A55A-465B7BA707E2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ERPfor众城电脑</RootNamespace>
+    <AssemblyName>ERPfor众城电脑</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CARDAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CARDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="ERPtimer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ERPtimer.dll</HintPath>
+    </Reference>
+    <Reference Include="HY_DbSqlHelp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\HY_DbSqlHelp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.10.0.40219.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin_system.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_system.Designer.cs">
+      <DependentUpon>admin_system.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cancel_Cuestcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cancel_Cuestcs.Designer.cs">
+      <DependentUpon>Cancel_Cuestcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cancel_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cancel_Supplier.Designer.cs">
+      <DependentUpon>Cancel_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Good_Cell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Good_Cell.Designer.cs">
+      <DependentUpon>Good_Cell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guest_Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guest_Load.Designer.cs">
+      <DependentUpon>Guest_Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guest_Pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guest_Pay.Designer.cs">
+      <DependentUpon>Guest_Pay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load_Info.Designer.cs">
+      <DependentUpon>Load_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_Form.Designer.cs">
+      <DependentUpon>Log_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Frame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Frame.Designer.cs">
+      <DependentUpon>Main_Frame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_Supplier.Designer.cs">
+      <DependentUpon>Pay_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Return_Good.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return_Good.Designer.cs">
+      <DependentUpon>Return_Good.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Return_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return_Info.Designer.cs">
+      <DependentUpon>Return_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Return_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return_Report.Designer.cs">
+      <DependentUpon>Return_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sell_Situation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sell_Situation.Designer.cs">
+      <DependentUpon>Sell_Situation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="storageinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="storageinfo.Designer.cs">
+      <DependentUpon>storageinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier_Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_Load.Designer.cs">
+      <DependentUpon>Supplier_Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkFlow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkFlow.Designer.cs">
+      <DependentUpon>WorkFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="供应商欠款报表.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>供应商欠款报表.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="历史库存报表.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="历史库存报表.Designer.cs">
+      <DependentUpon>历史库存报表.cs</DependentUpon>
+    </Compile>
+    <Compile Include="历史库存记录.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>历史库存记录.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="对客户退货.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>对客户退货.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="库存明细.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>库存明细.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="库存明细报表.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="库存明细报表.Designer.cs">
+      <DependentUpon>库存明细报表.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_info.Designer.cs">
+      <DependentUpon>Supplier_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier_priceinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_priceinfo.Designer.cs">
+      <DependentUpon>Supplier_priceinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="日常销售.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="日常销售.Designer.cs">
+      <DependentUpon>日常销售.cs</DependentUpon>
+    </Compile>
+    <Compile Include="欠款信息.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>欠款信息.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="现有库存明细.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="现有库存明细.Designer.cs">
+      <DependentUpon>现有库存明细.cs</DependentUpon>
+    </Compile>
+    <Compile Include="销售报表.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>销售报表.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin_system.resx">
+      <DependentUpon>admin_system.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cancel_Cuestcs.resx">
+      <DependentUpon>Cancel_Cuestcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cancel_Supplier.resx">
+      <DependentUpon>Cancel_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Good_Cell.resx">
+      <DependentUpon>Good_Cell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guest_Load.resx">
+      <DependentUpon>Guest_Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guest_Pay.resx">
+      <DependentUpon>Guest_Pay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load_Info.resx">
+      <DependentUpon>Load_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_Form.resx">
+      <DependentUpon>Log_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Frame.resx">
+      <DependentUpon>Main_Frame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_Supplier.resx">
+      <DependentUpon>Pay_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Return_Good.resx">
+      <DependentUpon>Return_Good.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return_Info.resx">
+      <DependentUpon>Return_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return_Report.resx">
+      <DependentUpon>Return_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sell_Situation.resx">
+      <DependentUpon>Sell_Situation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="storageinfo.resx">
+      <DependentUpon>storageinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier_Load.resx">
+      <DependentUpon>Supplier_Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkFlow.resx">
+      <DependentUpon>WorkFlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="历史库存报表.resx">
+      <DependentUpon>历史库存报表.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="历史库存记录.rdlc" />
+    <EmbeddedResource Include="对供应商欠款报表.rdlc" />
+    <EmbeddedResource Include="对客户退款报表.rdlc" />
+    <EmbeddedResource Include="库存明细.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="库存明细报表.resx">
+      <DependentUpon>库存明细报表.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier_info.resx">
+      <DependentUpon>Supplier_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Supplier_priceinfo.resx">
+      <DependentUpon>Supplier_priceinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="日常销售.resx">
+      <DependentUpon>日常销售.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="欠款报表.rdlc" />
+    <EmbeddedResource Include="现有库存明细.resx">
+      <DependentUpon>现有库存明细.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="销售报表.rdlc" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="供应商欠款报表.xsc">
+      <DependentUpon>供应商欠款报表.xsd</DependentUpon>
+    </None>
+    <None Include="供应商欠款报表.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>供应商欠款报表.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="供应商欠款报表.xss">
+      <DependentUpon>供应商欠款报表.xsd</DependentUpon>
+    </None>
+    <None Include="历史库存记录.xsc">
+      <DependentUpon>历史库存记录.xsd</DependentUpon>
+    </None>
+    <None Include="历史库存记录.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>历史库存记录.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="历史库存记录.xss">
+      <DependentUpon>历史库存记录.xsd</DependentUpon>
+    </None>
+    <None Include="对客户退货.xsc">
+      <DependentUpon>对客户退货.xsd</DependentUpon>
+    </None>
+    <None Include="对客户退货.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>对客户退货.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="对客户退货.xss">
+      <DependentUpon>对客户退货.xsd</DependentUpon>
+    </None>
+    <None Include="库存明细.xsc">
+      <DependentUpon>库存明细.xsd</DependentUpon>
+    </None>
+    <None Include="库存明细.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>库存明细.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="库存明细.xss">
+      <DependentUpon>库存明细.xsd</DependentUpon>
+    </None>
+    <None Include="欠款信息.xsc">
+      <DependentUpon>欠款信息.xsd</DependentUpon>
+    </None>
+    <None Include="欠款信息.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>欠款信息.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="欠款信息.xss">
+      <DependentUpon>欠款信息.xsd</DependentUpon>
+    </None>
+    <None Include="销售报表.xsc">
+      <DependentUpon>销售报表.xsd</DependentUpon>
+    </None>
+    <None Include="销售报表.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>销售报表.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="销售报表.xss">
+      <DependentUpon>销售报表.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="采购模块\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

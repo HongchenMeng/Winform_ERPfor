@@ -1,0 +1,253 @@
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csprojResolveAssemblyReference.cache
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csproj.GenerateResource.Cache
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+F:\众城电脑\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+E:\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+E:\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+E:\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+E:\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\CARDAL.dll
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\ERPtimer.dll
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\bin\Debug\HY_DbSqlHelp.dll
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\ERPfor众城电脑 - 副本 (13)\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csprojResolveAssemblyReference.cache
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csproj.GenerateResource.Cache
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+F:\工作\源码\审核代码\2015年\4月份\昆山众城业务管理系统\ERPfor众城电脑\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csprojResolveAssemblyReference.cache
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csproj.GenerateResource.Cache
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+D:\网站源码\LLBusinessManagement昆山众城业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csproj.GenerateResource.Cache
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+D:\42193221\FileRecv\MF000163-业务管理系统源码 asp.net业务管理系统源码\MF000163-业务管理系统源码 asp.net业务管理系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe.config
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.exe
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.pdb
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.exe
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\bin\Debug\ERPfor众城电脑.pdb
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csprojResolveAssemblyReference.cache
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.admin_system.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Cuestcs.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Cancel_Supplier.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Good_Cell.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Load.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Guest_Pay.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Load_Info.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Log_Form.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Main_Frame.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Pay_Supplier.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Good.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Info.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Return_Report.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Sell_Situation.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.storageinfo.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_Load.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.WorkFlow.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.历史库存报表.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.库存明细报表.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_info.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Properties.Resources.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.Supplier_priceinfo.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.日常销售.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.现有库存明细.resources
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\ERPfor众城电脑.csproj.GenerateResource.Cache
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.cache
+E:\SVNCode\WinformCode\trunk\众城电脑业务系统源码\ERPfor众城电脑\obj\x86\Debug\RdlCompile.compiled
